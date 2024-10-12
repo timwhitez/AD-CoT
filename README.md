@@ -1,5 +1,5 @@
 # AD-CoT
-Advanced Dynamic Chain-of-Thought Framework
+Advanced Dynamic Chain-of-Thought Framework Prompt
 
 EN_ver:
 ```
