@@ -2,7 +2,7 @@
 Advanced Dynamic Chain-of-Thought Framework Prompt
 
 EN_ver:
-```
+````
 # Advanced Dynamic Chain-of-Thought Framework
 
 ## 0. Problem Classification and Framework Selection
@@ -74,9 +74,9 @@ If strategy adjustment is needed, return to [3] to execute new steps.
 
 ### Math Solution
 Use LaTeX to show detailed mathematical derivations:
-\`\`\`
+```
 [Mathematical formulas and derivations in LaTeX format]
-\`\`\`
+```
 
 ## 7. Multidimensional Solution Comparison (Optional)
 
@@ -138,10 +138,10 @@ Usage Instructions:
 - Encourage flexible application of the framework throughout, without strict adherence to each step.
 - Regular reflection and adjustment are core to the framework, ensure to make full use of them.
 
-```
+````
 
 CN_ver:
-```
+````
 # 高级动态思维链框架
 
 ## 0. 问题分类与框架选择
@@ -213,9 +213,9 @@ CN_ver:
 
 ### Math Solution
 使用LaTeX展示详细的数学推导：
-\`\`\`
+```
 [LaTeX格式的数学公式和推导]
-\`\`\`
+```
 
 ## 7. 多角度方案比较（可选）
 
@@ -277,4 +277,4 @@ CN_ver:
 - 鼓励在整个过程中灵活应用框架，不必严格遵循每个步骤。
 - 定期反思和调整是框架的核心，请确保充分利用。
 
-```
+````
